@@ -4,7 +4,7 @@ Open in Streamlit
 
 How to run it on your own machine Install the requirements
 
-$ pip install -r requirements.txt
+$ pip install -r Requirements.txt
 
 Hw3-1
 
